@@ -1,0 +1,4 @@
+#wichtig (In ROS2 format angeben!!!!)
+
+topics: [{topic: /joint_states, type: sensor:msgs/msg/JointState, queue_size: 100},
+         {topic: /tf, type: tf2_msgs/msg_TFMessage, queue_size: 100}]

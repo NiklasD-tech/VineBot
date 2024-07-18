@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "/home/irobot/vinebot_ws/src/Vinebot_noetic_packages",
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc-11",
+    "cmake.useCMakePresets": "auto",
+    "python.autoComplete.extraPaths": [
+        "/home/irobot/vinebot_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/irobot/vinebot_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
